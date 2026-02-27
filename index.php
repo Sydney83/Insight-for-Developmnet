@@ -818,7 +818,7 @@ button[type="submit"]:hover {
     </div>
 
     <div style="border-top: 1px solid #eee; padding-top: 30px; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px; font-size: 0.8rem; color: #94a3b8;">
-        <p>© 2026 Insight for Development (I4D). All rights reserved.</p>
+        <p>© 2026 Insight for Development (I4D). All rights reserved. Developed by <a href="https://imperialsystemsmw.com/">Imperial Systems</a> in Collaboration with <a href="https://beleae.com/">Belea Enterprise</a></p>
         <div style="display: flex; gap: 20px;">
             <a href="#" style="color: #94a3b8; text-decoration: none;">Privacy Policy</a>
             <a href="#" style="color: #94a3b8; text-decoration: none;">Terms of Service</a>
